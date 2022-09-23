@@ -4,4 +4,4 @@ This repository contains the Protobuf definition of the API that the Kurtosis AP
 
 Language-agnostic documentation can be found [here][docs].
 
-[docs]: https://docs.kurtosistech.com/kurtosis-core/lib-documentation.html
+[docs]: https://docs.kurtosistech.com/kurtosis/core-lib-documentation.html
